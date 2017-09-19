@@ -1,0 +1,11 @@
+Loci	Ind	Gen	SmpNGen  RR 	TrLen	Va	Vi	GenomeSize	NumSim 
+10	100	1000	0.1	5.0	0.0004	0.000	0.0005	2000000		1
+/Users/brianarnold/PostDoc.Stuff/EpistasisProject/SimulatorsForGithub/EpistasisSimulator/BacterialSimulator
+
+
+# NumSim = Number of fwd simulations feeding to epi simulator
+# NumRep = Number of times you randomly sampled SNPs from each fwd simulation
+# RR = (rho/2N)*GenSize)
+# Va = s in 2Ns
+# Vi = s in 2Ns
+# 3rd line = directory path to fwd time simulations with files labelled " HaplotypeMatrix'Sim' " and " Positions'Sim' "

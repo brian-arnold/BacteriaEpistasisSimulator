@@ -1,0 +1,1113 @@
+POSITIONS
+74 5417 10921 16302 21979 27372 32848 38307 43994 49397 
+AddFitConst_2Ns: 0
+EpistasisTable_2Ns
+-0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 -0.10000000000000000555 -0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 
+-0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 
+0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 
+0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 0.10000000000000000555 
+0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 
+0.10000000000000000555 0.10000000000000000555 0.10000000000000000555 -0.10000000000000000555 
+0.10000000000000000555 -0.10000000000000000555 0.10000000000000000555 
+-0.10000000000000000555 0.10000000000000000555 
+0.10000000000000000555 
+
+Dprime_BY_DIST_gen0
+0.0018148820326681800938 -0.73684210526315785383 -0.20634920634920631 nan nan nan nan 1 nan 
+-0.014084507042253339298 0.35988620199146498235 nan nan nan nan nan nan 
+0.28845101258894373375 nan nan nan nan nan nan 
+nan nan nan 1 nan nan 
+nan nan 0.16666666666666665741 0.15540540540540551118 nan 
+nan -1 0.038461538461538491429 nan 
+1.000000000000000222 -0.067982456140350838725 nan 
+0.42528735632183922721 nan 
+nan 
+
+ThetaPi_gen0	2.1264646464646470569
+Wmean_gen0	0.99644000000000132466
+Wvar_gen0	6.9964000000000038597e-06
+Wskew_gen0	-0.42150886075855104052
+
+ThetaPi_gen10	1.7668686868686875879
+Wmean_gen10	0.9964700000000015212
+Wmax_gen10	0.99850000000000005418
+Wvar_gen10	3.0291000000000084032e-06
+Wskew_gen10	-0.20435629109637734602
+
+Dprime_BY_DIST_gen10
+-0.42148760330578549649 nan nan nan nan nan nan nan nan 
+nan 0.65277777777777767909 nan nan nan nan nan nan 
+-0.71590909090909271573 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan 0.43910256410256387483 nan 
+nan nan nan nan 
+nan -0.088319088319088384642 nan 
+-0.10581222056631928163 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen10
+78,45 45,0 0,68 68,100 100,0 0,100 100,0 0,39 39,100 
+78,0 45,68 0,100 68,0 100,100 0,0 100,39 0,100 
+78,68 45,100 0,0 68,100 100,0 0,39 100,100 
+78,100 45,0 0,100 68,0 100,39 0,100 
+78,0 45,100 0,0 68,39 100,100 
+78,100 45,0 0,39 68,100 
+78,0 45,39 0,100 
+78,39 45,100 
+78,100 
+
+ThetaPi_gen20	1.781414141414142005
+Wmean_gen20	0.99512000000000155886
+Wmax_gen20	0.99850000000000005418
+Wvar_gen20	4.7756000000000115022e-06
+Wskew_gen20	0.33528102678172494455
+
+Dprime_BY_DIST_gen20
+-0.12520503007107697258 nan nan nan nan nan nan nan nan 
+nan 0.88479262672811065382 nan nan nan nan nan nan 
+-0.99999999999999955591 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan -0.025974025974026117985 nan 
+nan nan nan nan 
+nan 0.022482893450635355742 nan 
+0.85652797704447625193 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen20
+59,31 31,0 0,72 72,100 100,0 0,100 100,0 0,34 34,100 
+59,0 31,72 0,100 72,0 100,100 0,0 100,34 0,100 
+59,72 31,100 0,0 72,100 100,0 0,34 100,100 
+59,100 31,0 0,100 72,0 100,34 0,100 
+59,0 31,100 0,0 72,34 100,100 
+59,100 31,0 0,34 72,100 
+59,0 31,34 0,100 
+59,34 31,100 
+59,100 
+
+ThetaPi_gen30	1.7181818181818186986
+Wmean_gen30	0.99615000000000197833
+Wmax_gen30	0.99850000000000005418
+Wvar_gen30	5.0275000000000048044e-06
+Wskew_gen30	-0.20299033118574338896
+
+Dprime_BY_DIST_gen30
+-0.28617780661907860074 nan nan nan nan nan nan nan nan 
+nan 0.89550679205851602127 nan nan nan nan nan nan 
+-0.70014992503748063601 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan 0.13793103448275864653 nan 
+nan nan nan nan 
+nan -0.86225895316804412882 nan 
+0.80237154150197620428 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen30
+77,33 33,0 0,71 71,100 100,0 0,100 100,0 0,44 44,100 
+77,0 33,71 0,100 71,0 100,100 0,0 100,44 0,100 
+77,71 33,100 0,0 71,100 100,0 0,44 100,100 
+77,100 33,0 0,100 71,0 100,44 0,100 
+77,0 33,100 0,0 71,44 100,100 
+77,100 33,0 0,44 71,100 
+77,0 33,44 0,100 
+77,44 33,100 
+77,100 
+
+ThetaPi_gen40	1.4933333333333338455
+Wmean_gen40	0.99614000000000091362
+Wmax_gen40	0.99850000000000005418
+Wvar_gen40	5.9104000000000103611e-06
+Wskew_gen40	-0.27490592421987775085
+
+Dprime_BY_DIST_gen40
+-0.045138888888888964446 nan nan nan nan nan nan nan nan 
+nan 0.87244897959183687064 nan nan nan nan nan nan 
+-0.99999999999999855671 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan -0.87244897959183609348 nan 
+nan nan nan nan 
+nan -0.50396825396825395416 nan 
+0.82638888888888828443 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen40
+84,28 28,0 0,72 72,100 100,0 0,100 100,0 0,72 72,100 
+84,0 28,72 0,100 72,0 100,100 0,0 100,72 0,100 
+84,72 28,100 0,0 72,100 100,0 0,72 100,100 
+84,100 28,0 0,100 72,0 100,72 0,100 
+84,0 28,100 0,0 72,72 100,100 
+84,100 28,0 0,72 72,100 
+84,0 28,72 0,100 
+84,72 28,100 
+84,100 
+
+ThetaPi_gen50	1.2529292929292932257
+Wmean_gen50	0.99653000000000135916
+Wmax_gen50	0.99850000000000005418
+Wvar_gen50	5.8091000000000118562e-06
+Wskew_gen50	-0.54944441040575353608
+
+Dprime_BY_DIST_gen50
+-0.047619047619047658038 nan nan nan nan nan nan nan nan 
+nan 1.000000000000000222 nan nan nan nan nan nan 
+-0.9999999999999990008 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan -0.81684981684981639027 nan 
+nan nan nan nan 
+nan -0.81981981981981977281 nan 
+0.91554054054054079259 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen50
+84,15 15,0 0,79 79,100 100,0 0,100 100,0 0,74 74,100 
+84,0 15,79 0,100 79,0 100,100 0,0 100,74 0,100 
+84,79 15,100 0,0 79,100 100,0 0,74 100,100 
+84,100 15,0 0,100 79,0 100,74 0,100 
+84,0 15,100 0,0 79,74 100,100 
+84,100 15,0 0,74 79,100 
+84,0 15,74 0,100 
+84,74 15,100 
+84,100 
+
+ThetaPi_gen60	1.5460606060606068013
+Wmean_gen60	0.99633000000000182528
+Wmax_gen60	0.99850000000000005418
+Wvar_gen60	5.5811000000000133615e-06
+Wskew_gen60	-0.51564146376341701838
+
+Dprime_BY_DIST_gen60
+0.71139971139971169833 nan nan nan nan nan nan nan nan 
+nan 1.000000000000000222 nan nan nan nan nan nan 
+-1.0000000000000017764 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan -1.0000000000000019984 nan 
+nan nan nan nan 
+nan -0.63924963924963917883 nan 
+0.2653810835629015763 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen60
+67,21 21,0 0,81 81,100 100,0 0,100 100,0 0,66 66,100 
+67,0 21,81 0,100 81,0 100,100 0,0 100,66 0,100 
+67,81 21,100 0,0 81,100 100,0 0,66 100,100 
+67,100 21,0 0,100 81,0 100,66 0,100 
+67,0 21,100 0,0 81,66 100,100 
+67,100 21,0 0,66 81,100 
+67,0 21,66 0,100 
+67,66 21,100 
+67,100 
+
+ThetaPi_gen70	1.4725252525252530145
+Wmean_gen70	0.99601000000000117218
+Wmax_gen70	0.99850000000000005418
+Wvar_gen70	5.5499000000000093234e-06
+Wskew_gen70	-0.18004387547803613057
+
+Dprime_BY_DIST_gen70
+-0.24657534246575338321 nan nan nan nan nan nan nan nan 
+nan 1.000000000000000222 nan nan nan nan nan nan 
+-0.74457215836526124964 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan -0.99999999999999933387 nan 
+nan nan nan nan 
+nan -0.3037974683544304999 nan 
+0.28245270711024145216 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen70
+73,20 20,0 0,71 71,100 100,0 0,100 100,0 0,79 79,100 
+73,0 20,71 0,100 71,0 100,100 0,0 100,79 0,100 
+73,71 20,100 0,0 71,100 100,0 0,79 100,100 
+73,100 20,0 0,100 71,0 100,79 0,100 
+73,0 20,100 0,0 71,79 100,100 
+73,100 20,0 0,79 71,100 
+73,0 20,79 0,100 
+73,79 20,100 
+73,100 
+
+ThetaPi_gen80	1.5349494949494955076
+Wmean_gen80	0.99597000000000190933
+Wmax_gen80	0.99850000000000005418
+Wvar_gen80	7.4691000000000154445e-06
+Wskew_gen80	-0.32750316508001736659
+
+Dprime_BY_DIST_gen80
+1 nan nan nan nan nan nan nan nan 
+nan 1 nan nan nan nan nan nan 
+0.73516949152542399037 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan -1.0000000000000008882 nan 
+nan nan nan nan 
+nan -0.68354430379746833335 nan 
+-0.1869918699186992328 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen80
+59,16 16,0 0,68 68,100 100,0 0,100 100,0 0,79 79,100 
+59,0 16,68 0,100 68,0 100,100 0,0 100,79 0,100 
+59,68 16,100 0,0 68,100 100,0 0,79 100,100 
+59,100 16,0 0,100 68,0 100,79 0,100 
+59,0 16,100 0,0 68,79 100,100 
+59,100 16,0 0,79 68,100 
+59,0 16,79 0,100 
+59,79 16,100 
+59,100 
+
+ThetaPi_gen90	1.313535353535354
+Wmean_gen90	0.99500000000000243805
+Wmax_gen90	0.99850000000000005418
+Wvar_gen90	7.0300000000000190895e-06
+Wskew_gen90	0.32028849856316954359
+
+Dprime_BY_DIST_gen90
+1 nan nan nan nan nan nan nan nan 
+nan 1 nan nan nan nan nan nan 
+1 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan -0.99999999999999789058 nan 
+nan nan nan nan 
+nan -0.67948717948717940462 nan 
+0.47115384615384597877 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen90
+40,13 13,0 0,95 95,100 100,0 0,100 100,0 0,48 48,100 
+40,0 13,95 0,100 95,0 100,100 0,0 100,48 0,100 
+40,95 13,100 0,0 95,100 100,0 0,48 100,100 
+40,100 13,0 0,100 95,0 100,48 0,100 
+40,0 13,100 0,0 95,48 100,100 
+40,100 13,0 0,48 95,100 
+40,0 13,48 0,100 
+40,48 13,100 
+40,100 
+
+ThetaPi_gen100	0.82121212121212150414
+Wmean_gen100	0.99367000000000227367
+Wmax_gen100	0.99850000000000005418
+Wvar_gen100	4.1211000000000061642e-06
+Wskew_gen100	1.4682372857496117646
+
+Dprime_BY_DIST_gen100
+1 nan nan nan nan nan nan nan nan 
+nan 0.99999999999999877875 nan nan nan nan nan nan 
+0.99999999999999833467 nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan -0.99999999999999855671 nan 
+nan nan nan nan 
+nan -1 nan 
+-0.059561128526645738812 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen100
+11,8 8,0 0,97 97,100 100,0 0,100 100,0 0,29 29,100 
+11,0 8,97 0,100 97,0 100,100 0,0 100,29 0,100 
+11,97 8,100 0,0 97,100 100,0 0,29 100,100 
+11,100 8,0 0,100 97,0 100,29 0,100 
+11,0 8,100 0,0 97,29 100,100 
+11,100 8,0 0,29 97,100 
+11,0 8,29 0,100 
+11,29 8,100 
+11,100 
+
+ThetaPi_gen110	0.72949494949494975149
+Wmean_gen110	0.99381000000000230266
+Wmax_gen110	0.99850000000000005418
+Wvar_gen110	3.5739000000000074053e-06
+Wskew_gen110	1.1302635901988264955
+
+Dprime_BY_DIST_gen110
+1 nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan -1 nan 
+-1 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen110
+8,8 8,0 0,100 100,100 100,0 0,100 100,0 0,31 31,100 
+8,0 8,100 0,100 100,0 100,100 0,0 100,31 0,100 
+8,100 8,100 0,0 100,100 100,0 0,31 100,100 
+8,100 8,0 0,100 100,0 100,31 0,100 
+8,0 8,100 0,0 100,31 100,100 
+8,100 8,0 0,31 100,100 
+8,0 8,31 0,100 
+8,31 8,100 
+8,100 
+
+ThetaPi_gen120	0.57090909090909114365
+Wmean_gen120	0.99361000000000232468
+Wmax_gen120	0.99850000000000005418
+Wvar_gen120	2.4579000000000023355e-06
+Wskew_gen120	0.95436320913696248702
+
+Dprime_BY_DIST_gen120
+1 nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan -1 nan 
+-1 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen120
+3,3 3,0 0,100 100,100 100,0 0,100 100,0 0,34 34,100 
+3,0 3,100 0,100 100,0 100,100 0,0 100,34 0,100 
+3,100 3,100 0,0 100,100 100,0 0,34 100,100 
+3,100 3,0 0,100 100,0 100,34 0,100 
+3,0 3,100 0,0 100,34 100,100 
+3,100 3,0 0,34 100,100 
+3,0 3,34 0,100 
+3,34 3,100 
+3,100 
+
+ThetaPi_gen130	0.62262626262626286078
+Wmean_gen130	0.99400000000000232614
+Wmax_gen130	0.99850000000000005418
+Wvar_gen130	2.6100000000000042335e-06
+Wskew_gen130	0.38419725139657195934
+
+Dprime_BY_DIST_gen130
+1 nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan -1 nan 
+-1 nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen130
+3,3 3,0 0,100 100,100 100,0 0,100 100,0 0,50 50,100 
+3,0 3,100 0,100 100,0 100,100 0,0 100,50 0,100 
+3,100 3,100 0,0 100,100 100,0 0,50 100,100 
+3,100 3,0 0,100 100,0 100,50 0,100 
+3,0 3,100 0,0 100,50 100,100 
+3,100 3,0 0,50 100,100 
+3,0 3,50 0,100 
+3,50 3,100 
+3,100 
+
+ThetaPi_gen140	0.50323232323232336416
+Wmean_gen140	0.99409000000000236064
+Wmax_gen140	0.99550000000000005151
+Wvar_gen140	2.2419000000000026248e-06
+Wskew_gen140	-0.12021658495975839909
+
+Dprime_BY_DIST_gen140
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen140
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,53 53,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,53 0,100 
+0,100 0,100 0,0 100,100 100,0 0,53 100,100 
+0,100 0,0 0,100 100,0 100,53 0,100 
+0,0 0,100 0,0 100,53 100,100 
+0,100 0,0 0,53 100,100 
+0,0 0,53 0,100 
+0,53 0,100 
+0,100 
+
+ThetaPi_gen150	0.50424242424242438076
+Wmean_gen150	0.99400000000000232614
+Wmax_gen150	0.99550000000000005151
+Wvar_gen150	2.2500000000000013276e-06
+Wskew_gen150	-4.5519088498480183668e-12
+
+Dprime_BY_DIST_gen150
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen150
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,48 48,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,48 0,100 
+0,100 0,100 0,0 100,100 100,0 0,48 100,100 
+0,100 0,0 0,100 100,0 100,48 0,100 
+0,0 0,100 0,0 100,48 100,100 
+0,100 0,0 0,48 100,100 
+0,0 0,48 0,100 
+0,48 0,100 
+0,100 
+
+ThetaPi_gen160	0.34666666666666678953
+Wmean_gen160	0.99331000000000235772
+Wmax_gen160	0.99550000000000005151
+Wvar_gen160	1.7739000000000038869e-06
+Wskew_gen160	1.0361306468740105746
+
+Dprime_BY_DIST_gen160
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen160
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,22 22,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,22 0,100 
+0,100 0,100 0,0 100,100 100,0 0,22 100,100 
+0,100 0,0 0,100 100,0 100,22 0,100 
+0,0 0,100 0,0 100,22 100,100 
+0,100 0,0 0,22 100,100 
+0,0 0,22 0,100 
+0,22 0,100 
+0,100 
+
+ThetaPi_gen170	0.48484848484848502848
+Wmean_gen170	0.99388000000000231715
+Wmax_gen170	0.99550000000000005151
+Wvar_gen170	2.2356000000000061749e-06
+Wskew_gen170	0.16051447077647665318
+
+Dprime_BY_DIST_gen170
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen170
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,40 40,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,40 0,100 
+0,100 0,100 0,0 100,100 100,0 0,40 100,100 
+0,100 0,0 0,100 100,0 100,40 0,100 
+0,0 0,100 0,0 100,40 100,100 
+0,100 0,0 0,40 100,100 
+0,0 0,40 0,100 
+0,40 0,100 
+0,100 
+
+ThetaPi_gen180	0.46545454545454562068
+Wmean_gen180	0.9934600000000023412
+Wmax_gen180	0.99550000000000005151
+Wvar_gen180	1.9584000000000061015e-06
+Wskew_gen180	0.77174363313637639461
+
+Dprime_BY_DIST_gen180
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen180
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,36 36,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,36 0,100 
+0,100 0,100 0,0 100,100 100,0 0,36 100,100 
+0,100 0,0 0,100 100,0 100,36 0,100 
+0,0 0,100 0,0 100,36 100,100 
+0,100 0,0 0,36 100,100 
+0,0 0,36 0,100 
+0,36 0,100 
+0,100 
+
+ThetaPi_gen190	0.42424242424242442073
+Wmean_gen190	0.99319000000000234873
+Wmax_gen190	0.99550000000000005151
+Wvar_gen190	1.5939000000000045515e-06
+Wskew_gen190	1.2831708326032813527
+
+Dprime_BY_DIST_gen190
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen190
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,30 30,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,30 0,100 
+0,100 0,100 0,0 100,100 100,0 0,30 100,100 
+0,100 0,0 0,100 100,0 100,30 0,100 
+0,0 0,100 0,0 100,30 100,100 
+0,100 0,0 0,30 100,100 
+0,0 0,30 0,100 
+0,30 0,100 
+0,100 
+
+ThetaPi_gen200	0.25757575757575768005
+Wmean_gen200	0.99277000000000226176
+Wmax_gen200	0.99550000000000005151
+Wvar_gen200	7.3710000000000264973e-07
+Wskew_gen200	2.8653118870321696576
+
+Dprime_BY_DIST_gen200
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen200
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,15 15,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,15 0,100 
+0,100 0,100 0,0 100,100 100,0 0,15 100,100 
+0,100 0,0 0,100 100,0 100,15 0,100 
+0,0 0,100 0,0 100,15 100,100 
+0,100 0,0 0,15 100,100 
+0,0 0,15 0,100 
+0,15 0,100 
+0,100 
+
+ThetaPi_gen210	0.039595959595959608068
+Wmean_gen210	0.99253000000000224379
+Wmax_gen210	0.99550000000000005151
+Wvar_gen210	8.9100000000000473589e-08
+Wskew_gen210	9.8493705895181768994
+
+Dprime_BY_DIST_gen210
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen210
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,2 2,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,2 0,100 
+0,100 0,100 0,0 100,100 100,0 0,2 100,100 
+0,100 0,0 0,100 100,0 100,2 0,100 
+0,0 0,100 0,0 100,2 100,100 
+0,100 0,0 0,2 100,100 
+0,0 0,2 0,100 
+0,2 0,100 
+0,100 
+
+ThetaPi_gen220	0
+Wmean_gen220	0.9925000000000022693
+Wmax_gen220	0.99250000000000004885
+Wvar_gen220	4.9303806576313237838e-30
+Wskew_gen220	-1
+
+Dprime_BY_DIST_gen220
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen220
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen230	0
+Wmean_gen230	0.9925000000000022693
+Wmax_gen230	0.99250000000000004885
+Wvar_gen230	4.9303806576313237838e-30
+Wskew_gen230	-1
+
+Dprime_BY_DIST_gen230
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen230
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen240	0
+Wmean_gen240	0.9925000000000022693
+Wmax_gen240	0.99250000000000004885
+Wvar_gen240	4.9303806576313237838e-30
+Wskew_gen240	-1
+
+Dprime_BY_DIST_gen240
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen240
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen250	0
+Wmean_gen250	0.9925000000000022693
+Wmax_gen250	0.99250000000000004885
+Wvar_gen250	4.9303806576313237838e-30
+Wskew_gen250	-1
+
+Dprime_BY_DIST_gen250
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen250
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen260	0
+Wmean_gen260	0.9925000000000022693
+Wmax_gen260	0.99250000000000004885
+Wvar_gen260	4.9303806576313237838e-30
+Wskew_gen260	-1
+
+Dprime_BY_DIST_gen260
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen260
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen270	0
+Wmean_gen270	0.9925000000000022693
+Wmax_gen270	0.99250000000000004885
+Wvar_gen270	4.9303806576313237838e-30
+Wskew_gen270	-1
+
+Dprime_BY_DIST_gen270
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen270
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen280	0
+Wmean_gen280	0.9925000000000022693
+Wmax_gen280	0.99250000000000004885
+Wvar_gen280	4.9303806576313237838e-30
+Wskew_gen280	-1
+
+Dprime_BY_DIST_gen280
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen280
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen290	0
+Wmean_gen290	0.9925000000000022693
+Wmax_gen290	0.99250000000000004885
+Wvar_gen290	4.9303806576313237838e-30
+Wskew_gen290	-1
+
+Dprime_BY_DIST_gen290
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen290
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen300	0
+Wmean_gen300	0.9925000000000022693
+Wmax_gen300	0.99250000000000004885
+Wvar_gen300	4.9303806576313237838e-30
+Wskew_gen300	-1
+
+Dprime_BY_DIST_gen300
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen300
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen310	0
+Wmean_gen310	0.9925000000000022693
+Wmax_gen310	0.99250000000000004885
+Wvar_gen310	4.9303806576313237838e-30
+Wskew_gen310	-1
+
+Dprime_BY_DIST_gen310
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen310
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen320	0
+Wmean_gen320	0.9925000000000022693
+Wmax_gen320	0.99250000000000004885
+Wvar_gen320	4.9303806576313237838e-30
+Wskew_gen320	-1
+
+Dprime_BY_DIST_gen320
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen320
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen330	0
+Wmean_gen330	0.9925000000000022693
+Wmax_gen330	0.99250000000000004885
+Wvar_gen330	4.9303806576313237838e-30
+Wskew_gen330	-1
+
+Dprime_BY_DIST_gen330
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen330
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen340	0
+Wmean_gen340	0.9925000000000022693
+Wmax_gen340	0.99250000000000004885
+Wvar_gen340	4.9303806576313237838e-30
+Wskew_gen340	-1
+
+Dprime_BY_DIST_gen340
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen340
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen350	0
+Wmean_gen350	0.9925000000000022693
+Wmax_gen350	0.99250000000000004885
+Wvar_gen350	4.9303806576313237838e-30
+Wskew_gen350	-1
+
+Dprime_BY_DIST_gen350
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen350
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen360	0
+Wmean_gen360	0.9925000000000022693
+Wmax_gen360	0.99250000000000004885
+Wvar_gen360	4.9303806576313237838e-30
+Wskew_gen360	-1
+
+Dprime_BY_DIST_gen360
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen360
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen370	0
+Wmean_gen370	0.9925000000000022693
+Wmax_gen370	0.99250000000000004885
+Wvar_gen370	4.9303806576313237838e-30
+Wskew_gen370	-1
+
+Dprime_BY_DIST_gen370
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen370
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen380	0
+Wmean_gen380	0.9925000000000022693
+Wmax_gen380	0.99250000000000004885
+Wvar_gen380	4.9303806576313237838e-30
+Wskew_gen380	-1
+
+Dprime_BY_DIST_gen380
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen380
+0,0 0,0 0,100 100,100 100,0 0,100 100,0 0,0 0,100 
+0,0 0,100 0,100 100,0 100,100 0,0 100,0 0,100 
+0,100 0,100 0,0 100,100 100,0 0,0 100,100 
+0,100 0,0 0,100 100,0 100,0 0,100 
+0,0 0,100 0,0 100,0 100,100 
+0,100 0,0 0,0 100,100 
+0,0 0,0 0,100 
+0,0 0,100 
+0,100 
+
+ThetaPi_gen390	0
+Wmean_gen390	0.9925000000000022693
+Wmax_gen390	0.99250000000000004885
+Wvar_gen390	4.9303806576313237838e-30
+Wskew_gen390	-1
+
+Dprime_BY_DIST_gen390
+nan nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan nan 
+nan nan nan nan nan nan nan 
+nan nan nan nan nan nan 
+nan nan nan nan nan 
+nan nan nan nan 
+nan nan nan 
+nan nan 
+nan 
+
+PairwiseAFS_BY_DIST_gen390
+0,0 0,0 0,100 100,100 100,0 0,1
