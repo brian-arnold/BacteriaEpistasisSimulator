@@ -1,0 +1,17 @@
+#!/bin/bash
+#SBATCH -J ISM
+#SBATCH -o out
+#SBATCH -e err
+#SBATCH -p interact
+#SBATCH -n 1
+#SBATCH -t 700
+#SBATCH --mem=2000
+
+#module load centos6/gcc-4.8.1
+source new-modules.sh
+module load gcc/6.1.0-fasrc01
+module load gcc/6.3.0-fasrc01 boost/1.63.0-fasrc01
+#g++ -O3 -I /n/regal/hanage_lab/ForBrian/SerialSampleStudy/boost_1_58_0 *.cpp
+#g++ -O3 -I /n/regal/hanage_lab/ForBrian/tmp/SerialSampleStudy/boost_1_58_0 *.cpp
+
+./a.out
