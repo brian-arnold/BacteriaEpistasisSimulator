@@ -12,7 +12,7 @@ MTRand rnd;
 int main()
 {
     // S appendix indicates starting variable to be passed to WF function
-    int LociS, IndividualsS, GenerationsS, GenomeSizeS, SegSizeS, NumSim, NumRep ;
+    int LociS, IndividualsS, GenerationsS, GenomeSizeS, SegSizeS, NumSim ;
     double SampGenS, UnscaledRecombRateS, RecombinationRateS, GeomTractLengthS, VaS, ViS ;
     string FilePath ;
     
@@ -21,9 +21,7 @@ int main()
     RecombinationRateS = UnscaledRecombRateS ;
     int sim, rep ;
     for(sim=1; sim<=NumSim; sim++){
-        for(rep=1; rep<=NumRep; rep++){
         WrightFisherEvo(LociS, IndividualsS, GenerationsS, SampGenS, RecombinationRateS, GeomTractLengthS, VaS, ViS, GenomeSizeS, sim, FilePath) ;
-        }
     }
     
     
